@@ -1,0 +1,117 @@
+
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+.title-container{
+    height: 40vh;
+
+    background-color: rgb(230, 230, 230);
+}
+
+.title-hello {
+    font-size: 10rem;
+    font-weight: 700;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.title-name {
+    font-size: 4rem;
+    font-weight: 800;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+    position: relative;
+    top: -2.5rem;
+
+    color: rgb(230, 230, 230);
+    background-color: #2f9886;
+}
+
+.title-tag {
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+    position: relative;
+    top: -2rem;
+}
+
+.about-me-container {
+    width: 80vw;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin-left: 10vw;
+
+    background-color: #2f9886;
+}
+
+.about-me-image {
+    height: 20vw;
+    width: 20vw;
+
+    border-radius: 100%;
+    box-shadow: 10px 5px 10px black;
+}
+
+.about-me-text {
+    font-size: 1.2rem;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+
+    color: rgb(230, 230, 230);
+}
+
+.contact-me-container {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.contact-me-icon {
+    width: 4rem;
+    height: 4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.test {
+
+}
